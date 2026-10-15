@@ -110,14 +110,13 @@ python -m pytest tests/ -v --cov=mood_engine --cov=activity_engine --cov-report=
 
 Add verified test results and coverage here after running this command in the Amazon project copy.
 
-## 🖼️ Screenshots
+## Screenshots
 
-Add screenshots of the actual running application to illustrate:
+### Alexa+ Companion Experience
+![Alexa+ conversation showing contextual follow-ups](alexa-plus-chat.png)
 
-- The Alexa+ companion conversation.
-- The Everyday Care reminder section.
-
-Screenshots are optional, but they help reviewers understand the interface quickly. Use genuine screenshots from your working application.
+### Everyday Care Reminders
+![Everyday Care showing a saved session reminder](everyday-care.png)
 
 ## 🔐 Safety, Privacy, and Limitations
 

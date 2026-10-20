@@ -133,7 +133,7 @@ For mental health support in India, Tele-MANAS is available at **14416**.
 
 This edition builds on the original ElderEase AI project by introducing a separate simulated Alexa+ companion page, contextual follow-up conversations, and session-based everyday reminders.
 
-The changes made specifically for this edition, along with testing evidence, are documented in [`docs/CHANGELOG.md`](docs/CHANGELOG.md).
+The changes made specifically for this edition, along with testing evidence, are documented in [`docs/CHANGELOG.md`](CHANGELOG.md).
 
 ## 📋 Disclaimer
 

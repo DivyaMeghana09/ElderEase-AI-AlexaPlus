@@ -138,3 +138,17 @@ The changes made specifically for this edition, along with testing evidence, are
 ## 📋 Disclaimer
 
 ElderEase AI is an experimental wellbeing prototype intended to demonstrate accessible conversational support. It does not diagnose conditions, replace professional care, or guarantee crisis detection.
+
+## Future Improvements
+
+ElderEase AI is currently a Streamlit-based hackathon prototype that simulates an Alexa+ companion experience. It is not connected to a live Alexa device.
+
+Planned improvements include:
+
+- **Alexa Skill Integration:** Develop a custom Alexa skill to support voice-based interactions.
+- **Persistent Reminders:** Store reminders so they remain available across sessions.
+- **Privacy and Security:** Strengthen data protection and user privacy controls.
+- **Accessibility:** Continue improving readability and ease of use for older adults.
+- **Reliability:** Expand automated testing to cover interface behavior and deployment scenarios.
+
+These are future development goals and are not implemented features of the current prototype.

@@ -113,10 +113,10 @@ Add verified test results and coverage here after running this command in the Am
 ## Screenshots
 
 ### Alexa+ Companion Experience
-![Alexa+ conversation showing contextual follow-ups](alexa-plus-chat.png)
+![ElderEase AI Alexa+ conversational experience](alexa-plus-chat.png)
 
 ### Everyday Care Reminders
-![Everyday Care showing a saved session reminder](everyday-care.png)
+![ElderEase AI Everyday Care reminders](everyday-care.png)
 
 ## 🔐 Safety, Privacy, and Limitations
 

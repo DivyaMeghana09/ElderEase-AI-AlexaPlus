@@ -35,7 +35,7 @@ ElderEase AI provides a simple flow:
 - **Mood detection:** Rule-based identification of supported mood categories.
 - **Activity suggestions:** Gentle activities relevant to the conversation.
 - **Safety-aware responses:** Configured distress phrases trigger a dedicated safety response.
-- **Everyday Care reminders:** Add and view simple reminders during the current session.
+- **Everyday Care reminders:** Add and view reminders during the current session. Reminders are temporary and do not trigger real alarms or notifications.
 - **Accessible design:** Readable text, plain language, and straightforward navigation.
 
 ## 🗂️ Project Structure
